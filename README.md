@@ -6,7 +6,7 @@
 ### 설치
 1. [Releases](https://github.com/dr-sauce/ichoseong/releases/latest) 방문.
 2. 아이클라우드 링크 클릭.
-4. 단축어 추가 클릭.
+4. `단축어 추가` 클릭.
 
 ### tl;dr
 - 기존에 자음만 있는 경우 무시됨.
