@@ -1,6 +1,8 @@
 # iChoseong
 아이폰 연락처 초성 검색 활성화
 
+Designed for iPhone, iPad, iPod, Mac.
+
 <img width="100" height="100" alt="${f}" src="https://github.com/user-attachments/assets/0f63b5a1-a58f-4259-bfac-46b7b52e6326" />
 
 ## 설치
